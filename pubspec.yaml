@@ -1,0 +1,5 @@
+name: currency_bot
+dependencies:
+  dio:
+  teledart:
+    
